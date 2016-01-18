@@ -1,0 +1,12 @@
+<div class="post-preview">
+	<a href="{{ site.url }}{{ post.url }}">
+    	<h2 class="post-title">
+        	{{ post.title }}
+         </h2>
+         <h3 class="post-subtitle">
+            {{ post.subtitle }}
+         </h3>
+	 </a>
+     <p class="post-meta">Geschrieben von <a href="#">{{ site.owner.name }}</a> am <time datetime="{{ post.date | date_to_xmlschema }}">{% include mydate.html %}</time></p>
+</div>
+<hr>

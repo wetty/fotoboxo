@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="container">
+   <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 text-center">
+{% include postedby.html %}
+      </div>
+   </div>
+</div>
+    <!-- Post Content -->
+    <article id="{% if page.section %}{{ page.section }}{% else %}start{% endif %}">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 text-justify">{{ content }}</div>
+	    </div>
+	 </div>
+  </article>
+<div class="container">
+   <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 text-center">
+         <nav class="pagination" role="navigation">
+      {% if page.previous %}
+        <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="vorheriger Artikel: {{ page.previous.title }}">&larr; vorheriger Artikel</a>
+      {% endif %}
+      {% if page.next %}
+        <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="nächster Artikel: {{ page.next.title }}">nächster Artikel &rarr;</a>
+      {% endif %}
+         </nav><!-- /.pagination -->
+      </div>
+   </div>
+</div>

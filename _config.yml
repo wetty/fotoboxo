@@ -1,6 +1,8 @@
 # Site settings
-title:
-email:
+title: Fotos aus der Box - Die FotoBox
+locale: de_DE
+email: thomas@wetterer.de
+telefon: +49 163 8493889
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
@@ -10,3 +12,22 @@ github_username:
 
 # Build settings
 markdown: kramdown
+
+# Site owner
+owner:
+  name: Thomas Wetterer
+  avatar: thomas-wetterer.jpg
+  email: thomas@wetterer.de
+  disqus-shortname: wetty
+  twitter: twettyr #username
+  facebook: #username
+  github: wetty #username
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: wetterer #username
+  tumblr: #username
+  500px: wetty
+  xing:
+  google:
+    plus: ThomasWetterer #username

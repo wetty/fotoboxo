@@ -1,0 +1,15 @@
+<section id="news" class="bg-dark">
+	<!-- Main Content -->
+	<div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">FotoBox Neuigkeiten</h2>
+                <hr>
+	{% for post in site.posts limit:2 %}
+		{% include post_blog.html %}
+	{% endfor %}
+              <a href="{{ site.url | prepend: site.baseurl }}/news" class="btn btn-primary btn-xl wow tada">weitere News...</a>
+           </div>
+	    </div>
+	 </div>
+</section>

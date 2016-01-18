@@ -51,6 +51,11 @@ p {
     color: white;
 }
 
+.bg-light {
+    background-color: $theme-light;
+    color: white;
+}
+
 .text-faded {
     color: rgba(white, .7);
 }
@@ -67,6 +72,9 @@ aside {
     padding: 0;
 }
 
+#intro-header {
+    min-height: 240px;
+}
 // Navigation
 
 .navbar-default {
@@ -155,7 +163,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/fotos-aus-der-box.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -349,3 +357,12 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+.pull-left {
+    margin-right: 15px;
+}
+
+ul,ol {
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
