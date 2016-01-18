@@ -30,7 +30,7 @@
                         </li>
                     </ul>
 -->
-                    <p class="copyright text-muted">&copy; {{ site.time | date: '%Y' }} - <a href="{{ site.url }}/impressum/" rel="author">{{ site.owner.name }}</a> - <a href="{{ site.url }}/impressum/">Impressum</a></p>
+                    <p class="copyright text-muted">&copy; {{ site.time | date: '%Y' }} - <a href="{{ site.url | prepend: site.baseurl }}/impressum/" rel="author">{{ site.owner.name }}</a> - <a href="{{ site.url | prepend: site.baseurl }}/impressum/">Impressum</a></p>
                 </div>
             </div>
         </div>
