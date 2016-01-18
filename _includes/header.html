@@ -1,6 +1,6 @@
 {% if page.section or page.background-image %}
 <!--<header{% if page.background-image %} style="background-image:url({{ page.background-image }})"{% endif %}>-->
-<header{% if page.background-image %} class="lazyload" data-bg="{{ page.background-image }}" data-expand="1000"{% endif %}>
+<header{% if page.background-image %} class="lazyload" data-bg="{{ site.url | prepend: site.baseurl }}{{ page.background-image }}" data-expand="1000"{% endif %}>
     <div class="header-content">
         <div class="header-content-inner">
             <h1>{% if page.title %}{{ page.title }}{% else %}Ihre favorisierte FotoBox{% endif %}</h1>
