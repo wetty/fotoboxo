@@ -2,7 +2,7 @@
 layout: post
 title:  "Der erste Einsatz!"
 subtitle: "Es ist geschafft und es war ein voller Erfolg"
-background-image: /img/Full-HD-0853.jpg
+background-image: /header/Full-HD-0853.jpg
 date:   2015-04-26 19:58:28 +0100
 ---
 Gestern war es endlich soweit. Die Foto Box hatte bei einer Geburtstags Party im [Gernsheimer Fährhaus] mit fast 100 Gästen Ihre Premiere.

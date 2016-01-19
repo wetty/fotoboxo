@@ -20,6 +20,12 @@ gems:
   - jekyll-feed
   - jemoji
 
+assets:
+  css: "/assets/css"
+  fonts: "/assets/fonts"
+  images: "/assets/images"
+  js: "/assets/js"
+
 # Site owner
 owner:
   name: Thomas Wetterer
@@ -36,7 +42,8 @@ owner:
   tumblr: #username
   500px: wetty
   xing:
+  bing-verify: EE0D978C30EE22199D09EFD26CB45F0B
   google:
     plus: ThomasWetterer #username
     verify: uWUlAKKMSFqda-kxKIfgqE5PkEIFqqVyMfj9emXPp7Q
-
+	
