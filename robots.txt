@@ -1,0 +1,7 @@
+---
+sitemap: false
+---
+User-agent: *
+Disallow: 
+
+Sitemap: {{ site.url | prepend: site.baseurl }}/sitemap.xml 
