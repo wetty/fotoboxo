@@ -38,10 +38,14 @@ $theme-primary: #F05F40;
 $theme-dark: #888;
 $theme-light: #DDD;
 
+@import "vendor/bootstrap/bootstrap";
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
         "base",
-		"blog"
+		"blog",
+		"lazyload"
 ;
 @import "vendor/font-awesome/font-awesome";
+@import "vendor/css/animate.min";

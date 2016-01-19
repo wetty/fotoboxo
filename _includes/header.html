@@ -1,9 +1,9 @@
-{% if page.section or page.background-image %}
 <!--<header{% if page.background-image %} style="background-image:url({{ page.background-image }})"{% endif %}>-->
-<header{% if page.background-image %} class="lazyload" data-bg="{{ site.url | prepend: site.baseurl }}{{ site.assets.images }}{{ page.background-image }}" data-expand="1000"{% endif %}>
+<header class="lazyload" data-bg="{{ site.url | prepend: site.baseurl }}{{ site.assets.images }}{% if page.background-image %}{{ page.background-image }}{% else %}/header/fotos-aus-der-box.jpg{% endif %}"{% if page.section == false %} id="intro-header"{% endif %}>
     <div class="header-content">
         <div class="header-content-inner">
             <h1>{% if page.title %}{{ page.title }}{% else %}Ihre favorisierte FotoBox{% endif %}</h1>
+{% if page.section %}
             <hr>
             <p>{% if page.subtitle %}{{ page.subtitle }}{% else %}Mit Fotos aus der Box verleihen Sie Ihrem Event den letzten Schliff!{% endif%}</p>
             {% if page.date %}{% include postedby.html %}
@@ -12,15 +12,7 @@
             {% if page.section_text %}<hr>
 			<a href="#{{ page.section }}" class="btn btn-primary btn-xl page-scroll wow tada">{{ page.section_text }}</a>
 			{% endif %}
+{% endif %}
         </div>
     </div>
 </header>
-{% else %}
-<header id="intro-header" {% if page.background-image %} class="lazyload" data-bg="{{ site.url | prepend: site.baseurl }}{{ site.assets.images }}{{ page.background-image }}" data-expand="1000"{% endif %}>
-    <div class="header-content">
-        <div class="header-content-inner">
-            <h1>{% if page.title %}{{ page.title }}{% else %}Ihre favorisierte FotoBox{% endif %}</h1>
-        </div>
-    </div>
-</header>
-{% endif%}
