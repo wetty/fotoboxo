@@ -1,4 +1,6 @@
 'use strict';
+var mozjpeg = require('imagemin-mozjpeg');
+
 module.exports = function(grunt) {
 
   grunt.initConfig({
@@ -26,15 +28,13 @@ module.exports = function(grunt) {
     imagemin: {
       dist: {
         options: {
-          optimizationLevel: 7,
-          progressive: true
+          optimizationLevel: 7
         },
         files: [{
           expand: true,
-          cwd: 'images/',
-          src: '**/*.{png,jpg,jpeg,JPG}',
-//      src: '{,*/}*.{png,jpg,jpeg,JPG}',
-          dest: 'images/'
+          cwd: 'assets/images/_fullsize/',
+          src: '**/*.{gif,GIF,jpg,JPG,png,PNG}',
+          dest: 'assets/images/_imagemin/'
         }]
       }
     },
@@ -70,7 +70,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-svgmin');
-  grunt.loadNpmTasks('grunt-responsive-images');
+//  grunt.loadNpmTasks('grunt-responsive-images');
 
   // Register tasks
   grunt.registerTask('default', [
