@@ -3,7 +3,7 @@ layout: page
 title: Die FotoBox im Detail
 subtitle: Alles was die FotoBox leisten kann
 ---
-<img title="FotoBox" alt="WettyBox" src="{{ site.url | prepend: site.baseurl }}{{ site.assets.images }}/fotos-aus-der-box.png" class="pull-left">
+<img title="FotoBox" alt="WettyBox" src="{{ site.url | prepend: site.baseurl }}{{ site.assets.images }}/fotobox-gernsheim.jpg" class="pull-left">
 
 ##Was ist eigentlich eine FotoBox?
 
