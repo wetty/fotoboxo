@@ -12,4 +12,4 @@ subtitle: Alles was die FotoBox leisten kann
   * Bei Wlan Zugang eine Online Galerie für den direkten Zugriff
   * Alle Bilddateien im RAW und JPG Format, auf einem von Ihnen gestellten USB Medium (USB Stick oder Festplatte mit mindestens 8GB)
 
-**FotoBox Classic Paket 238.- incl. MwSt.**
+**FotoBox Classic Paket Einführungspreis bis 31.07.2016 238.- incl. MwSt. statt 289.-** 
