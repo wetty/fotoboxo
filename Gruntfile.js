@@ -51,7 +51,7 @@ module.exports = function(grunt) {
 	uncss: {
 	  dist: {
 	    files: {
-	      'assets/css/tidy.css': ['_site/index.html', '_site/news/index.html', '_site/fotobox/index.html']
+	      'assets/css/fotobox.css': ['_site/index.html', '_site/news/index.html', '_site/fotobox/index.html']
 	    }
 	  }
 	},
@@ -73,7 +73,7 @@ module.exports = function(grunt) {
 	    },
 	    target: {
 	      files: {
-	        'assets/css/output.css': ['assets/css/*.css','!assets/css/output.css']
+	        'assets/css/fotobox.min.css': ['assets/css/*.css','!assets/css/output.css']
 	      }
 	    }	},
     watch: {
