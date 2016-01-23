@@ -75,7 +75,19 @@ module.exports = function(grunt) {
 	      files: {
 	        'assets/css/fotobox.min.css': ['assets/css/*.css','!assets/css/output.css']
 	      }
-	    }	},
+	    }
+	},
+	penthouse: {
+	    extract : {
+	        outfile : 'assets/css/overthetop.css',
+	        css : '_site/assets/css/animate.min.css',
+//	        css : '_site/assets/css/main.css',
+	        url : 'http://localhost:4000',
+	        width : 1300,
+	        height : 900,
+	        skipErrors : false // this is the default
+	    },
+	  },
     watch: {
       js: {
         files: [
@@ -100,6 +112,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-svgmin');
   grunt.loadNpmTasks('grunt-uncss');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
+  grunt.loadNpmTasks('grunt-penthouse');
 //  grunt.loadNpmTasks('grunt-responsive-images');
 
   // Register tasks
