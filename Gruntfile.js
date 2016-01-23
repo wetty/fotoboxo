@@ -55,7 +55,7 @@ module.exports = function(grunt) {
 	    }
 	  }
 	},
-	cssmin: {
+	cssmin_: {
 	  target: {
 	    files: [{
 	      expand: true,
@@ -66,6 +66,16 @@ module.exports = function(grunt) {
 	    }]
 	  }
 	},
+	cssmin: {
+	    options: {
+	      shorthandCompacting: false,
+	      roundingPrecision: -1
+	    },
+	    target: {
+	      files: {
+	        'assets/css/output.css': ['assets/css/*.css','!assets/css/output.css']
+	      }
+	    }	},
     watch: {
       js: {
         files: [
