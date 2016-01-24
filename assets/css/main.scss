@@ -38,6 +38,9 @@ $theme-primary: #F05F40;
 $theme-dark: #888;
 $theme-light: #DDD;
 
+@import	"vendor/bootstrap";
+@import	"vendor/font-awesome";
+@import	"vendor/animate";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

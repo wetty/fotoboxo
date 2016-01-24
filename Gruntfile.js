@@ -79,8 +79,8 @@ module.exports = function(grunt) {
 	},
 	penthouse: {
 	    extract : {
-	        outfile : 'assets/css/overthetop.css',
-	        css : '_site/assets/css/animate.min.css',
+	        outfile : '_includes/critical.css',
+	        css : '_site/assets/css/main.css',
 //	        css : '_site/assets/css/main.css',
 	        url : 'http://localhost:4000',
 	        width : 1300,
