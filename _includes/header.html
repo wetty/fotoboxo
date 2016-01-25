@@ -5,7 +5,7 @@
 -->
 <!--<header{% if page.background-image %} style="background-image:url({{ page.background-image }})"{% endif %}>-->
 <!--<header class="lazyload" data-bg="{{ site.url | prepend: site.baseurl }}{{ site.assets.images }}{% if page.background-image %}{{ page.background-image }}{% else %}/header/fotos-aus-der-box.jpg{% endif %}"{% if page.section or page.background-image %}{% else %} id="intro-header"{% endif %}>-->
-<header style="background-image:url({{ site.url | prepend: site.baseurl }}{{ site.assets.images }}{% if page.background-image %}{{ page.background-image }}{% else %}/header/fotos-aus-der-box.jpg{% endif %})"{% if page.section or page.background-image %}{% else %} id="intro-header"{% endif %}>
+<header style="background-image:url({% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}{{ site.assets.images }}{% if page.background-image %}{{ page.background-image }}{% else %}/header/fotos-aus-der-box{{ site.version }}.jpg{% endif %})"{% if page.section or page.background-image %}{% else %} id="intro-header"{% endif %}>
     <div class="header-content">
         <div class="header-content-inner">
             <h1>{% if page.title %}{{ page.title }}{% else %}Ihre favorisierte FotoBox{% endif %}</h1>

@@ -3,7 +3,7 @@ layout: page
 title: Die FotoBox im Detail
 subtitle: Alles was die FotoBox leisten kann
 ---
-<img title="FotoBox mieten in Gernsheim" alt="FotoBox mieten" src="{{ site.url | prepend: site.baseurl }}{{ site.assets.images }}/fotobox-gernsheim.jpg" class="pull-left">
+<img title="FotoBox mieten in Gernsheim" alt="FotoBox mieten" src="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}{{ site.assets.images }}/fotobox-gernsheim{{ site.version }}.jpg" class="pull-left">
 
 ##Was ist eigentlich eine FotoBox?
 
