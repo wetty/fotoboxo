@@ -1,7 +1,7 @@
-section,href,title,file
-#fotobox,/#fotobox,FotoBox,fotobox.html
-#portfolio,/#portfolio,Portfolio,portfolio.html
-#partner,/#partner,Partner,partner.html
-#news,/#news,News,news.html
-#kosten,/#kosten,Kosten,kosten.html
-#contact,/#contact,Kontakt,contact.html
+section,href,title,file,hreftitle
+#fotobox,/#fotobox,FotoBox,fotobox.html,Merkmale der FotoBox
+#portfolio,/#portfolio,Portfolio,portfolio.html,Fotos aus der Box
+#partner,/#partner,Partner,partner.html,Partner der FotoBox
+#news,/#news,News,news.html,Neuigkeiten rund um die FotoBox
+#kosten,/#kosten,Kosten,kosten.html,FotoBox zu mieten
+#contact,/#contact,Kontakt,contact.html,Kontakt zur FotoBox
