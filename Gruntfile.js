@@ -51,8 +51,9 @@ module.exports = function(grunt) {
 	uncss: {
 	  dist: {
        options: {
-        ignore: ['.animated', '.navbar-default.affix', '.affix', '.affix-top', '.navbar', '.navbar-default', '.navbar-fixed-top', '.navbar-default.affix', '.navbar-header', '.navbar-brand', '.navbar-default.affix', '.nav > li > a', '.navbar-default.affix', '.nav > li > a:focus', '.navbar-default.affix .nav > li > a', '.navbar-default.affix .nav > li > a:focus','a:focus','a']
-      },
+        ignore: ['.animated', '.navbar-default.affix', '.affix', '.affix-top', '.navbar', '.navbar-default', '.navbar-fixed-top', '.navbar-default.affix', '.navbar-header', '.navbar-brand', '.navbar-default.affix', '.nav > li > a', '.navbar-default.affix', '.nav > li > a:focus', '.navbar-default.affix .nav > li > a', '.navbar-default.affix .nav > li > a:focus','a:focus','a'],
+        media: ['(min-width: 768px)']
+	    },
 	    files: {
 	      'assets/css/fotobox.css': ['_site/index.html', '_site/news/index.html', '_site/fotobox/index.html']
 	    }

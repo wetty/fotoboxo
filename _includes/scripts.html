@@ -1,3 +1,7 @@
+<script src="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}{{ site.assets.js }}/scripts.min{{ site.version }}.js" async=""></script>
+
+{% if false %}
+
 <!-- jQuery -->
 <!--
 <script src="{{ site.url | prepend: site.baseurl }}{{ site.assets.js }}/jquery.js"></script>
@@ -5,7 +9,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 -->
 
-<script src="{{ site.url | prepend: site.baseurl }}{{ site.assets.js }}/scripts.min.js" async=""></script>
 <!--
 -->
 
@@ -47,3 +50,4 @@
 <script src="{{ site.url | prepend: site.baseurl }}{{ site.assets.js }}/lazysizes.min.js" async=""></script>
 <script src="{{ site.url | prepend: site.baseurl }}{{ site.assets.js }}/ls.unveilhooks.min.js" async=""></script>
 -->
+{% endif %}
