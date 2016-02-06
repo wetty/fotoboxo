@@ -3,7 +3,7 @@ layout: page
 title: Kosten der FotoBox
 subtitle: Alles was die FotoBox leisten kann
 ---
-##FotoBox Classic Paket##
+## FotoBox Classic Paket
 
   * Anlieferung und Abholung im Umkreis von 25km von Gernsheim
   * Auf- und Abbau der FotoBox inklusive der notwendigen Beleuchtung 
