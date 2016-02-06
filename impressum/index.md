@@ -3,8 +3,7 @@ layout: page
 title: Impressum
 subtitle: Was sein muß, muß sein
 ---
-##Impressum
-
+##Impressum##
 
 Dipl.-Ing. (TU) Thomas Wetterer    
 Breslauer Strasse 44    
