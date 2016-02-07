@@ -18,7 +18,9 @@
 <meta name="geo.placename" content="Gernsheim" />
 <meta name="geo.position" content="49.757378;8.502774" />
 <meta name="ICBM" content="49.757378, 8.502774" />
-
+{% if site.url_cdn %}
+<link rel="dns-prefetch" href="{{ site.url_cdn }}">
+{% endif %}
 
     <title>{{ site.title }}</title>
 <style type="text/css">
