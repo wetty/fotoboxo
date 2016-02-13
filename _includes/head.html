@@ -1,19 +1,25 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="{{ site.owner.name }}">
-
-{% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}">{% endif %}
-{% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
-
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="{{ site.owner.name }}">
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}">
+<meta name="keywords" content="{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}{{ site.keywords }}{% endif %}">
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 {% if site.owner.google.verify %}<!-- Webmaster Tools verfication -->
 <meta name="google-site-verification" content="{{ site.owner.google.verify }}">{% endif %}
 {% if site.owner.bing-verify %}<meta name="msvalidate.01" content="{{ site.owner.bing-verify }}">{% endif %}
-<meta name="DC.title" content="FotoBox Gernsheim" />
+<meta name="DC.title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}" />
+<meta name="DC.Rights" content="{{ site.owner.name }} - {{ site.url }}" />
+<meta name="DC.Description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}" />
+<meta name="DC.Keywords" content="{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}{{ site.keywords }}{% endif %}" />
+<meta name="DC.Language" content="de" />
+<meta name="revisit-After" content="30 days">
+<meta property="og:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}" />
+<meta property="og:url" content="{{ site.url }}" />
+<meta property="og:site_name" content="{{ site.title }}"/>
 <meta name="geo.region" content="DE-HE" />
 <meta name="geo.placename" content="Gernsheim" />
 <meta name="geo.position" content="49.757378;8.502774" />
