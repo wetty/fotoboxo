@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Impressum
+title: FotoBox Gernsheim - Impressum
 subtitle: Was sein muß, muß sein
 ---
 ## Impressum
