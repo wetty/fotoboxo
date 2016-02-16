@@ -4,7 +4,7 @@ title:  "Die FotoBox macht ernst!"
 subtitle: "Ab sofort ist die FotoBox offiziell mietbar"
 date:   2016-01-02 13:12:56 +0100
 ---
-Was zum Spaß für eine Veranstaltung gedacht war entwickelte sich 2015 völlig ungeahnt zu einem Trend. Die FotoBox wurde sozusagen zu einem "muß" für jegliche Art von Events. 
+Was zum Spaß für eine Veranstaltung gedacht war entwickelte sich 2015 völlig ungeahnt zu einem Trend. Die FotoBox wurde sozusagen zu einem "muß" für jegliche Art von Events. Egal ob Geburtstag, Hochzeit, Halloween, Firmenfeier oder Messe.
 
 Nachdem es 2015 schon erste Anfragen gab, ob die FotoBox zu mieten sei und auch für 2016 schon Anfragen vorliegen ist es nun offiziell: Ja die FotoBox kann ab sofort angemietet werden! 
 
