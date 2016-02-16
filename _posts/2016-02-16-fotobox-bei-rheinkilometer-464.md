@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Die FotoBox bei Rheinkilometer 464"
-subtitle: "Der Blog Biebesheim am Rheinkilometer 464 hat die Fotobox bei seinen Empfehlungen"
+subtitle: "Der Blog Biebesheim am Rheinkilometer 464 hat die FotoBox bei seinen Empfehlungen"
 date:   2016-02-16 08:42:56 +0100
 ---
 Auf der Seite von [Biebesheim am Rheinkilometer 464] ist die FotoBox heute als Empfehlung in einem Artikel erschienen.
