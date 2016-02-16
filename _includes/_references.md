@@ -6,5 +6,5 @@
 [Bellini Trattobistro]: http://bellini-trattobistro.de/ "Bellini Trattobistro"
 [Hotel Rheingold]: http://www.hotel-rheingold.de/ "Vielfalt erleben seit 1909"
 [Faselstall Biebesheim]: http://www.faselstall-biebesheim.de/ "Das Kulturzentrum der besonderen ART"
-
+[Biebesheim am Rheinkilometer 464]: http://www.biebesheim-am-rheinkilometer464.de/fotobox/ "Ein Weblog von Simone Frank"
 [WettyBox]: /img/fotos-aus-der-box.png "FotoBox"
