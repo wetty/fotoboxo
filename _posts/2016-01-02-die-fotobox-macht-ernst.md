@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Die FotoBox macht ernst!"
 subtitle: "Ab sofort ist die FotoBox offiziell mietbar"
 date:   2016-01-02 13:12:56 +0100

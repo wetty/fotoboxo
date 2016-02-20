@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Halloween Party!"
 subtitle: "Eine wahrhaft perfekte Party für die FotoBox"
 date:   2015-11-01 16:09:42 +0100

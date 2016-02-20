@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Kosten der FotoBox
 subtitle: Alles was die FotoBox leisten kann
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Die FotoBox im Detail
 subtitle: Alles was die FotoBox leisten kann
 ---

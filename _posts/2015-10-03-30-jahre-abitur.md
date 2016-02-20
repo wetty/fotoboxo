@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "30 Jahre Abitur!"
 subtitle: "Wenn man sich nur alle paar Jahre sieht, sind Bilder eine schöne Erinnerung"
 date:   2015-10-30 14:39:42 +0100

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Der erste Einsatz!"
 subtitle: "Es ist geschafft und es war ein voller Erfolg"
 background-image: /header/fotobox-mieten-gernsheim.jpg

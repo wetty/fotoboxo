@@ -35,6 +35,20 @@ assets:
   images: "/assets/images"
   js: "/assets/js"
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages" 
+    values:
+      layout: "page" # overrides previous default layout
+ 
 # Site owner
 owner:
   name: Thomas Wetterer

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Es geht Los!"
 subtitle: "Die Zeit davor"
 date:   2015-03-12 17:38:28 +0100

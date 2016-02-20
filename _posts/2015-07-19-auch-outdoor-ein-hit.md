@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Auch Outdoor ein Hit!"
 subtitle: "Die FotoBox, umwerfend gut!"
 background-image: /header/fotobox-gernsheim-in-action.jpg
