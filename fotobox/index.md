@@ -10,7 +10,7 @@ Die heute bekannte FotoBox hat Ihren Ursprung sicher in den Passbildautomaten in
 
 Mit der Verbreitung von Smartphones mit integrierter Foto Kamera, entwickelte sich auch ein neuer Trend, sich selbst irgendwo zu fotografieren. Nahezu allen mittlerweile als Selfie bekannt.
 
-Mit dem Trend sich selbst zu fotografieren und dem erhöhten Spassfaktor, das in der Gruppe zu tun, war es nur ein kurzer Weg zur mobilen FotoBox für alle erdenklichen Veranstaltungen. Egal ob Geburtstage, Jubiläen, Hochzeiten, Firmenveranstaltungen oder Messen.
+Mit dem Trend sich selbst zu fotografieren und dem erhöhten Spassfaktor, das in der Gruppe zu tun, war es nur ein kurzer Weg zur mobilen FotoBox für alle erdenklichen Veranstaltungen. Egal ob Geburtstag, Jubiläum, [Hochzeit], Firmenveranstaltung oder Messe.
 
 ## Wie funktioniert die FotoBox?
 

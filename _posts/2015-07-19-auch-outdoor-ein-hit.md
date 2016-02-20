@@ -4,7 +4,7 @@ subtitle: "Die FotoBox, umwerfend gut!"
 background-image: /header/fotobox-gernsheim-in-action.jpg
 date:   2015-07-19 16:25:44 +0100
 ---
-Die FotoBox war wieder gefragt. Dieses mal für eine kombinierte Silberhochzeit und Geburtstags Feier im Freien.
+Die FotoBox war wieder gefragt. Dieses mal für eine kombinierte [Silberhochzeit] und Geburtstags Feier im Freien.
 
 Internet Zugang gab es diesesmal nicht. Dank integriertem WLAN Hotspot in der FotoBox konnte den Gästen aber die Möglichkeit geboten werden sich direkt auf die FotoBox zu verbinden und sich dort die Bildergalerie per Smartphone anzuschauen.
 
