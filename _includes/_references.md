@@ -6,5 +6,5 @@
 [Hotel Rheingold]: http://www.hotel-rheingold.de/ "Vielfalt erleben seit 1909"
 [Faselstall Biebesheim]: http://www.faselstall-biebesheim.de/ "Das Kulturzentrum der besonderen ART"
 [Biebesheim am Rheinkilometer 464]: http://www.biebesheim-am-rheinkilometer464.de/ "Ein Weblog von Simone Frank"
-[Hochzeit]: {{ site.url | prepend: site.baseurl }}/fotobox/hochzeit "Hochzeit mit der FotoBox"
-[Silberhochzeit]: {{ site.url | prepend: site.baseurl }}/fotobox/hochzeit "Silberhochzeit mit der FotoBox"
+[Hochzeit]: {{ site.url | prepend: site.baseurl }}/fotobox/hochzeit.html "Hochzeit mit der FotoBox"
+[Silberhochzeit]: {{ site.url | prepend: site.baseurl }}/fotobox/hochzeit.html "Silberhochzeit mit der FotoBox"
