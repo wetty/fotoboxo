@@ -29,9 +29,12 @@
 {% if site.url_cdn %}
 <link rel="dns-prefetch" href="{{ site.url_cdn }}">
 {% endif %}
-<link rel="dns-prefetch" href="http://fonts.googleapis.com">
 <link rel="dns-prefetch" href="https://www.google-analytics.com">
+{% if false %}
+<!-- Die Links solo gibt es wohl nicht -->
 <link rel="dns-prefetch" href="http://fonts.gstatic.com">
+<link rel="dns-prefetch" href="http://fonts.googleapis.com">
+{% endif %}
 
     <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
 <style type="text/css">
