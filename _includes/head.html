@@ -97,4 +97,5 @@
 	<link rel="apple-touch-icon" sizes="76x76" href="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}/touch-icon-ipad{{ site.version }}.png">
 	<link rel="apple-touch-icon" sizes="120x120" href="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}/touch-icon-iphone-retina{{ site.version }}.png">
 	<link rel="apple-touch-icon" sizes="152x152" href="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}/touch-icon-ipad-retina{{ site.version }}.png">
+	{% seo %}
 </head>
