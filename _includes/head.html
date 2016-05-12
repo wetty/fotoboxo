@@ -1,29 +1,6 @@
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="author" content="{{ site.owner.name }}">
-<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}">
-<meta name="keywords" content="{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}{{ site.keywords }}{% endif %}">
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-{% if site.owner.google.verify %}<!-- Webmaster Tools verfication -->
-<meta name="google-site-verification" content="{{ site.owner.google.verify }}">{% endif %}
-{% if site.owner.bing-verify %}<meta name="msvalidate.01" content="{{ site.owner.bing-verify }}">{% endif %}
-<meta name="DC.title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}" />
-<meta name="DC.Rights" content="{{ site.owner.name }} - {{ site.url }}" />
-<meta name="DC.Description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}" />
-<meta name="DC.Keywords" content="{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}{{ site.keywords }}{% endif %}" />
-<meta name="DC.Language" content="de" />
-<meta name="revisit-After" content="30 days">
-<meta property="og:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}" />
-<meta property="og:url" content="{{ site.url }}" />
-<meta property="og:site_name" content="{{ site.title }}"/>
-<meta name="geo.region" content="DE-HE" />
-<meta name="geo.placename" content="Gernsheim" />
-<meta name="geo.position" content="49.757378;8.502774" />
-<meta name="ICBM" content="49.757378, 8.502774" />
+{% include head_meta.html %}
+
 <link title="{{ site.url }}" rel="alternate" type="application/atom+xml" href="http://feeds.feedburner.com/fotos-aus-der-box" />
 
 {% if site.url_cdn %}
@@ -36,7 +13,6 @@
 <link rel="dns-prefetch" href="http://fonts.googleapis.com">
 {% endif %}
 
-    <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
 <style type="text/css">
     {% include critical.css %}
   </style>
@@ -97,5 +73,4 @@
 	<link rel="apple-touch-icon" sizes="76x76" href="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}/touch-icon-ipad{{ site.version }}.png">
 	<link rel="apple-touch-icon" sizes="120x120" href="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}/touch-icon-iphone-retina{{ site.version }}.png">
 	<link rel="apple-touch-icon" sizes="152x152" href="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}/touch-icon-ipad-retina{{ site.version }}.png">
-	{% seo %}
 </head>
