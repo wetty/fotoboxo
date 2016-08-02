@@ -8,3 +8,8 @@
 [Biebesheim am Rheinkilometer 464]: http://www.biebesheim-am-rheinkilometer464.de/ "Ein Weblog von Simone Frank"
 [Hochzeit]: {{ site.url | prepend: site.baseurl }}/fotobox/hochzeit.html "Hochzeit mit der FotoBox"
 [Silberhochzeit]: {{ site.url | prepend: site.baseurl }}/fotobox/hochzeit.html "Silberhochzeit mit der FotoBox"
+[VORHANG AUF]: http://vorhang-auf.com/ "Das schönste Magazin der Region rund um Darmstadt"
+[Aurora DeMeehl]: http://www.aurorademeehl.de/ "Vintage Showgirl, Transvestitenimitatorin, Stadtführerin, Schweinedarstellerin, In Darmstadt und Umgebung weltweit bekannt."
+[Boom Gang]: http://www.boom-gang.de/ "Boom gang - Discorock"
+[FTG-Allstars]: http://ftgallstars.de/ "Cheerleader der Freien Turngemeinde (FTG) Pfungstadt 1900 e.V."
+[Alberto Colucci]: http://www.alberto-colucci.de/ "Die Sonne scheint... ...der kult lebt"
