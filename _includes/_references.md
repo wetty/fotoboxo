@@ -14,4 +14,4 @@
 [FTG-Allstars]: http://ftgallstars.de/ "Cheerleader der Freien Turngemeinde (FTG) Pfungstadt 1900 e.V."
 [Alberto Colucci]: http://www.alberto-colucci.de/ "Die Sonne scheint... ...der kult lebt"
 [Portugiesischer Club]: http://www.copsv.de/ "Clube Operário Português de Groß-Umstadt"
-[Portugiesischer Club]: http://www.copsv.de/ "Clube Operário Português de Groß-Umstadt"
+[Portugiesischen Club]: http://www.copsv.de/ "Clube Operário Português de Groß-Umstadt"
