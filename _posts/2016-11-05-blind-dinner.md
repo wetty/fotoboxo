@@ -12,3 +12,5 @@ Damit trotzdem was sichtbares von dem ersten inoffiziellen "Blind Dinner" bleibt
 Fotos-aus-der-Box verabschiedet sich damit für das Jahr 2016 in die Urlaubspause. Wir danken allen, die uns 2016 Ihr Vertrauen geschenkt haben und die FotoBox zu Gast hatten. Allen einen Guten Rutsch ins neue Jahr!
 
 2017 geht es weiter wie gehabt. Die ersten Termine sind schon vergeben.
+
+{% include _references.md %}
