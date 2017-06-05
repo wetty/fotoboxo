@@ -11,7 +11,7 @@ url: "https://www.fotos-aus-der-box.de" # the base hostname & protocol for your 
 #url: "http://localhost:4000" # the base hostname & protocol for your site
 #url: "" # the base hostname & protocol for your site
 #url_cdn: https://cloudfront.fotos-aus-der-box.de
-url_cdn: https://d2pgtqatw1ohn4.cloudfront.net
+url_cdn: //d2pgtqatw1ohn4.cloudfront.net
 version: ".1"
 #permalink:    /:year/:month/:day/:title.html
 
