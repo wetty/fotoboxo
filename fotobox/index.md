@@ -22,7 +22,7 @@ Alle Bilder werden/können auch sofort in einer Online Galerie im Internet zur V
 
 ## Wie kann man die Bilder ausdrucken?
 
-Zum direkten ausdrucken der Bilder dient unser FotoKiosk. Es lassen sich alle Bilder der FotoBox im Format 10cm x 15cm und 15cm x 20cm direkt auf einem Profesionellen Foto Drucker ausdrucken. Ein 10x15cm Bild braucht hier weniger als 15 Sekunden zum Druck. Die Ausdrucke lassen sich individuell gestalten und können mit Ihrem Logo oder/und Firmenslogan gestaltet werden. Sie haben damit ein individuellee Werbemittel für Ihre Firmenevents, Tage der offenen Tür etc.  
+Zum direkten ausdrucken der Bilder dient unser FotoKiosk. Es lassen sich alle Bilder der FotoBox im Format 10cm x 15cm und 15cm x 20cm direkt auf einem professionellen Foto Drucker ausdrucken. Ein 10x15cm Bild braucht hier weniger als 15 Sekunden zum Druck. Die Ausdrucke lassen sich individuell gestalten und können mit Ihrem Logo oder/und Firmenslogan gestaltet werden. Sie haben damit ein individuellee Werbemittel für Ihre Firmenevents, Tage der offenen Tür etc.  
 
 ## Was kommt alles mit der FotoBox?
 
