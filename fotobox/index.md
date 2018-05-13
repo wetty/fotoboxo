@@ -20,6 +20,10 @@ Kurz danach erscheint das gemachte Bild auf dem integrierten Display und kann vo
 
 Alle Bilder werden/können auch sofort in einer Online Galerie im Internet zur Verfügung gestellt werden. Der Link hierfür läßt sich bequem über einen an der FotoBox angebrachten QR-Code per Smartphone mit entsprechender QR-Code Scanner App aufrufen.
 
+## Wie kann man die Bilder ausdrucken?
+
+Zum direkten ausdrucken der Bilder dient unser FotoKiosk. Es lassen sich alle Bilder der FotoBox im Format 10cm x 15cm und 15cm x 20cm direkt auf einem Profesionellen Foto Drucker ausdrucken. Ein 10x15cm Bild braucht hier weniger als 15 Sekunden zum Druck. Die Ausdrucke lassen sich individuell gestalten und können mit Ihrem Logo oder/und Firmenslogan gestaltet werden. Sie haben damit ein individuellee Werbemittel für Ihre Firmenevents, Tage der offenen Tür etc.  
+
 ## Was kommt alles mit der FotoBox?
 
 Die FotoBox incl. Beleuchtungsanlage wird von uns gebracht und aufgebaut. Während der Veranstaltung betreuen wir die FotoBox und stehen den Gästen mit Rat und Tat zur Seite. Nach dem Event bauen wir alles wieder ab und Sie erhalten alle entstandenen digitalen Bilddateien.

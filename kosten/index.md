@@ -4,11 +4,28 @@ subtitle: Alles was die FotoBox leisten kann
 ---
 ## FotoBox Classic Paket
 
-  * Anlieferung und Abholung im Umkreis von 25km von Gernsheim
+  * Anlieferung und Abholung (bevorzugt am nächsten Tag)
   * Auf- und Abbau der FotoBox inklusive der notwendigen Beleuchtung 
-  * Vier Stunden vor Ort Betreuung (Auf-/Abbau zählen hier nicht dazu)
+  * Zahlreiche FotoBox Requisiten. 
   * Unbegrenzte Anzahl von Bilder
-  * Bei Wlan Zugang eine Online Galerie für den direkten Zugriff
-  * Alle Bilddateien im RAW und JPG Format, auf einem von Ihnen gestellten USB Medium (USB Stick oder Festplatte mit mindestens 8GB)
+  * Online Galerie für den direkten Zugriff auf alle Bilder
+  * Alle Bilddateien im RAW und JPG Format auf einem USB Stick
 
 **FotoBox Classic Paket 289.- incl. MwSt.** 
+
+## FotoBox Kiosk Paket
+
+  * Enthält alles aus dem FotoBox Classic Paket
+  * Auf- und Abbau des FotoKiosk 
+  * 250 Ausdrucke in 10x15 oder 15x20
+
+**FotoBox Kiosk Paket 399.- incl. MwSt.** 
+
+## Rund ums Event
+
+  * Betreuung von FotoBox und FotoKiosk während Ihres Events
+  * Individuelle Gestaltung der Ausdrucke mit Text und Logos
+  * Event Fotografie
+  * ...
+
+**Angebot nach Anfrage** 
