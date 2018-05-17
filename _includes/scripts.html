@@ -1,5 +1,6 @@
 <script src="{{ site.url | prepend: site.baseurl }}{{ site.assets.js }}/scripts.min.js" async=""></script>
 
+{% if site.owner.google.analytics %}
 <script>
 // Set to the same value as the web property used on the site
 var gaProperty = 'UA-2881242-4';
@@ -28,6 +29,8 @@ function gaOptout() {
   ga('send', 'pageview');
 
 </script>
+{% endif %}
+
 
 {% if false %}
 <script src="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}{{ site.assets.js }}/scripts.min{{ site.version }}.js" async=""></script>

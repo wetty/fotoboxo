@@ -71,6 +71,7 @@ owner:
   bing-verify: EE0D978C30EE22199D09EFD26CB45F0B
   google:
     plus: ThomasWetterer #username
+    analytics: 
     verify: uWUlAKKMSFqda-kxKIfgqE5PkEIFqqVyMfj9emXPp7Q
 
 include: [".htaccess"]
