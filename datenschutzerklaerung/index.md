@@ -3,7 +3,7 @@ title: Datenschutzerklärung
 ---
 ## Datenschutzerklärung
 
-### Datenschutz
+### Datenschutz ###
 
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
 
@@ -23,7 +23,7 @@ Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies i
 Diese Internetseite verwendet **keine** so genannte Cookies.
 {% endif %}
 
-**Server-Log- Files**
+### Server-Log- Files ###
 
 Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log Files, die Ihr Browser automatisch an uns übermittelt. Dies sind:
 
@@ -35,23 +35,23 @@ Der Provider der Seiten erhebt und speichert automatisch Informationen in so gen
 
 Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Wir behalten uns vor, diese Daten nachträglich zu prüfen, wenn uns konkrete Anhaltspunkte für eine rechtswidrige Nutzung bekannt werden.
  
-**SSL-Verschlüsselung**
+### SSL-Verschlüsselung ###
 
 Diese Seite nutzt aus Gründen der Sicherheit und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel der Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von "http://" auf "https://" wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
 
 Wenn die SSL Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
 
-**Recht auf Auskunft, Löschung, Sperrung**
+### Recht auf Auskunft, Löschung, Sperrung ###
 
 Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
 
-**Widerspruch Werbe-Mails**
+### Widerspruch Werbe-Mails ###
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
 
  
 {% if site.owner.google.analytics %}
-**Google Analytics-Datenschutzerklärung:**
+### Google Analytics-Datenschutzerklärung: ###
 
 Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung der Webseite werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Wir haben zudem auf dieser Webseite Google Analytics um den Code „anonymizeIP“ erweitert. Dies garantiert die Maskierung Ihrer IP-Adresse, sodass alle Daten anonym erhoben werden. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
 
