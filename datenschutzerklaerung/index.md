@@ -64,7 +64,7 @@ Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf
 Wir nutzen Google Analytics weiterhin dazu, Daten aus Double-Click-Cookies und auch AdWords zu statistischen Zwecken auszuwerten. Sollten Sie dies nicht wünschen, können Sie dies über den Anzeigenvorgaben-Manager ([http://www.google.com/settings/ads/onweb/?hl=de](http://www.google.com/settings/ads/onweb/?hl=de)) deaktivieren.
 {% endif %}
 
-Quelle: ([https://www.e-recht24.de](https://www.e-recht24.de)
+Quelle: ([https://www.e-recht24.de](https://www.e-recht24.de))
 
  
 {% include _references.md %}
