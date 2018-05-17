@@ -3,7 +3,7 @@ title: Datenschutzerklärung
 ---
 ## Datenschutzerklärung
 
-**Datenschutz**
+###Datenschutz###
 
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
 
@@ -11,7 +11,7 @@ Die Nutzung unserer Website ist in der Regel ohne Angabe personenbezogener Daten
 
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 
-**Cookies**
+###Cookies###
 
 {% if site.owner.google.analytics %}
 Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert.
@@ -42,6 +42,7 @@ Diese Seite nutzt aus Gründen der Sicherheit und zum Schutz der Übertragung ve
 Wenn die SSL Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
 
 **Recht auf Auskunft, Löschung, Sperrung**
+
 Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
 
 **Widerspruch Werbe-Mails**
