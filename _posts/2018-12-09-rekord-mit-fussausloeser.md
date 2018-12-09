@@ -9,7 +9,7 @@ Es gab immer mal Stimmen, das es ja Schade ist, das unser Handauslöser teilweis
 
 Die Generalprobe bei einer Weihnachtsfeier mit gut 100 Gästen lief ohne jegliche Probleme und so wurden insgesamt 797 Bilder gemacht. Das ist für eine Abendveranstaltung ein neuer Rekord! 
 
-Rechnet man das auf die rund 7 Stunden der Veranstaltung um, so wurden pro Stunde im Durchschnitt rund 100 Bilder gemacht. Pro Minute also rund eineinhalb Bilder. Diesen hohen Duchsatz erreicht wirklich nur eine FotoBox von Fotos-aus-der-Box.
+Rechnet man das auf die rund 7 Stunden der Veranstaltung um, so wurden pro Stunde im Durchschnitt rund 100 Bilder gemacht. Pro Minute also rund eineinhalb Bilder. Teilweise lagen nur drei Sekunden zwischen den einzelnen Bildern. Diesen hohen Duchsatz erreicht wirklich nur eine FotoBox von Fotos-aus-der-Box.
 
 Mit den letzten Weihnachtsfeiern geht das Jahr nun langsam aber sicher dem Ende zu. Die ersten Buchungen für Hochzeiten und Geburtstage im nächstes Jahr liegen bereits vor. 
 
