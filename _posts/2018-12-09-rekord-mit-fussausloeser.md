@@ -11,6 +11,8 @@ Die Generalprobe bei einer Weihnachtsfeier mit gut 100 Gästen lief ohne jeglich
 
 Rechnet man das auf die rund 7 Stunden der Veranstaltung um, so wurden pro Stunde im Durchschnitt rund 100 Bilder gemacht. Pro Minute also rund eineinhalb Bilder. Teilweise lagen nur drei Sekunden zwischen den einzelnen Bildern. Diesen hohen Duchsatz erreicht wirklich nur eine FotoBox von Fotos-aus-der-Box.
 
+Alle Bilder wurden auch direkt in eine Online Bilder Galerie übertragen und standen so unmittelbar allen Gästen zur Verfügung.
+
 Mit den letzten Weihnachtsfeiern geht das Jahr nun langsam aber sicher dem Ende zu. Die ersten Buchungen für Hochzeiten und Geburtstage im nächstes Jahr liegen bereits vor. 
 
 Vielen Dank für das Jahr 2018 und allen bisherigen und zukünftigen Kunden einen Guten Rutsch ins Jahr 2019!
