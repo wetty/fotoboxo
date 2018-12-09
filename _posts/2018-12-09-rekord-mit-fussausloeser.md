@@ -5,7 +5,7 @@ date:   2018-12-09- 12:05:13
 ---
 Bei einer Weihnachtsfeier am gestrigen Abend kam erstmalig unser neu entwickelter Fußauslöser zum Einsatz. 
 
-Es gab immer mal Stimmen, das es ja Schade ist, das unser Handauslöser teilweise mit auf den Bildern wäre. Auf diese Informationen haben wir reagiert und bietet nun ebenfalls die Möglichkeit an, die Bilder mittels eines Fußauslösers völlig unbemerkt zu machen.
+Es gab immer mal Stimmen, dass es ja Schade sei, das unser Handauslöser teilweise mit auf den Bildern zu sehen wäre. Auf diese Informationen haben wir reagiert und bietet nun ebenfalls die Möglichkeit an, die Bilder mittels eines Fußauslösers völlig unbemerkt zu machen.
 
 Die Generalprobe bei einer Weihnachtsfeier mit gut 100 Gästen lief ohne jegliche Probleme und so wurden insgesamt 797 Bilder gemacht. Das ist für eine Abendveranstaltung ein neuer Rekord! 
 
