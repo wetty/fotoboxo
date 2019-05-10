@@ -15,3 +15,4 @@
 [Alberto Colucci]: http://www.alberto-colucci.de/ "Die Sonne scheint... ...der kult lebt"
 [Portugiesischer Club]: http://www.copsv.de/ "Clube Operário Português de Groß-Umstadt"
 [Portugiesischen Club]: http://www.copsv.de/ "Clube Operário Português de Groß-Umstadt"
+[Fotos aus der Box Online Galerie]: https://galerie.fotos-aus-der-box.de/ "Fotos aus der Box Online Galerie"
