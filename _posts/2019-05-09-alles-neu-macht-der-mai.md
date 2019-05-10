@@ -1,7 +1,7 @@
 ---
 title:  "Alles neu macht der Mai"
 subtitle: "Neue Online Galerie mit kostenlosem Download und Bestell Möglichkeit"
-date:   2019-05-09- 19:45:43
+date:   2019-05-09 19:45:43 +01:00
 ---
 In den letzten Tagen und Wochen haben wir unsere [Fotos aus der Box Online Galerie] komplett überarbeitet. 
 

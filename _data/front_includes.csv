@@ -1,8 +1,8 @@
 section,href,title,file,hreftitle
-#fotobox,/#fotobox,FotoBox,fotobox.html,Merkmale der FotoBox
-#portfolio,/#portfolio,Portfolio,portfolio.html,Fotos aus der Box
-#partner,/#partner,Partner,partner.html,Partner der FotoBox
-#news,/#news,News,news.html,Neuigkeiten rund um die FotoBox
-#kosten,/#kosten,Kosten,kosten.html,FotoBox zu mieten
-#galerie,https://galerie.fotos-aus-der-box.de,Galerie,galerie.html,Online Galerie
-#contact,/#contact,Kontakt,contact.html,Kontakt zur FotoBox
+#fotobox,{{ site.url }}/#fotobox,FotoBox,fotobox.html,Merkmale der FotoBox
+#portfolio,{{ site.url }}/#portfolio,Portfolio,portfolio.html,Fotos aus der Box
+#partner,{{ site.url }}/#partner,Partner,partner.html,Partner der FotoBox
+#news,{{ site.url }}/#news,News,news.html,Neuigkeiten rund um die FotoBox
+#kosten,{{ site.url }}/#kosten,Kosten,kosten.html,FotoBox zu mieten
+#galerie,https://galerie.fotos-aus-der-box.de,Galerie,,Online Galerie
+#contact,{{ site.url }}/#contact,Kontakt,contact.html,Kontakt zur FotoBox
