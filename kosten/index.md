@@ -2,9 +2,9 @@
 title: Kosten der FotoBox
 subtitle: Alles was die FotoBox leisten kann
 ---
-## FotoBox Classic Paket
+## FotoBox Classic Paket ##
 
-Sie müßen sich um nichts kümmern. Wir kommen, bauen auf und richten alles komplett ein.
+Sie müßen sich um nichts kümmern. Wir kommen und bauen alles rechtzeitig auf. Ebenso bauen wir nach der Veranstaltung alles wieder ab. 
 
   * Anlieferung und Abholung (bevorzugt am nächsten Tag) 25km rund um Darmstadt
   * Auf- und Abbau der FotoBox inklusive der notwendigen Beleuchtung und Hintergrund
@@ -12,21 +12,22 @@ Sie müßen sich um nichts kümmern. Wir kommen, bauen auf und richten alles kom
   * Unbegrenzte Anzahl von Bilder
   * Sofortige Online Galerie für den direkten Zugriff auf alle Bilder
   * Alle Bilddateien im RAW und JPG Format auf einem USB Stick
-  * Telefonische Verfügbarkeit und Notfallservice währedn des Events
+  * Telefonische Verfügbarkeit und Notfallservice während des Events
 
 **FotoBox Classic Paket 289.- incl. MwSt.** 
 
-## FotoBox Kiosk Paket
+## FotoBox Kiosk Paket ##
 
 Alle Bilder lassen sich komfortabel per Touchscreen auswählen und ausdrucken.
 
   * Enthält alles aus dem FotoBox Classic Paket
   * Auf- und Abbau des FotoKiosk 
   * 250 Ausdrucke in 10x15
+  * 50 FotoBox Visitenkarten mit dem Zugangscode zur Online Galerie zum auslegen
 
 **FotoBox Kiosk Paket 399.- incl. MwSt.** 
 
-## Rund ums Event
+## Rund ums Event ##
 
 
   * Betreuung von FotoBox und FotoKiosk während Ihres Events
@@ -36,7 +37,7 @@ Alle Bilder lassen sich komfortabel per Touchscreen auswählen und ausdrucken.
 
 **Angebot nach Anfrage** 
 
-## FotoBox als Service
+## FotoBox als Service ##
 
 Sie betreiben ein Restaurant, Hotel oder eine Event Location und hätten gerne dauerhaft eine FotoBox zur Verfügung?
 
