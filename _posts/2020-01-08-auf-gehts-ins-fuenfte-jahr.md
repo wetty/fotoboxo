@@ -5,7 +5,7 @@ date:   2020-01-08 13:54:43 +01:00
 ---
 Wir wünschen allen ein gutes neues Jahr 2020!
 
-Dieses Jahr wird Fotos aus der Box stolze 5 Jahre alt. Wer hätte das Ende April 2015 auf einer Geburtstagsfeier gedacht, das sich unsere FotoBox etabliert und jedes Jahr mehr und mehr nachgefragt wird.
+Dieses Jahr wird Fotos aus der Box stolze 5 Jahre alt. Wer hätte das Ende April 2015 auf einer Geburtstagsfeier gedacht, dass sich unsere FotoBox etabliert und jedes Jahr mehr und mehr nachgefragt wird.
 
 Auch im fünften Jahr mangelt es uns nicht an Ideen was wir verbessern wollen oder was wir Neues planen. Wie immer sind wir da auch offen für alle Anregungen unserer Kunden. 
 
