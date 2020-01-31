@@ -73,6 +73,9 @@ owner:
     plus: ThomasWetterer #username
     analytics: 
     verify: uWUlAKKMSFqda-kxKIfgqE5PkEIFqqVyMfj9emXPp7Q
+    ad-client: ca-pub-7756413429414204
+    ad-slot: 1775973063
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
