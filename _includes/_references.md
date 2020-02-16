@@ -16,3 +16,4 @@
 [Portugiesischer Club]: http://www.copsv.de/ "Clube Operário Português de Groß-Umstadt"
 [Portugiesischen Club]: http://www.copsv.de/ "Clube Operário Português de Groß-Umstadt"
 [Fotos aus der Box Online Galerie]: https://galerie.fotos-aus-der-box.de/ "Fotos aus der Box Online Galerie"
+[Gernsheimer Hochseekameradschaft e.V.]: http://www.gernsheimer-hochseekameradschaft.de/ "Gernsheimer Hochseekameradschaft e.V. - Rund um die Segelyacht Moby Dick III."
