@@ -9,7 +9,7 @@ Da wir an dem Festival aktiv beteiligt sind und auch beim ersten Vortrag auf der
 
 Maritime Kurzweil wird Ihnen in dieser Premierenveranstaltung der Gernsheimer Hochseekameradschaft e.V. garantiert. Auf einer ca. 30 qm großen Leinwand werden zwei außergewöhnliche Beiträge präsentiert. Im Rahmenprogramm werden neben Speisen und Getränken umfangreiche Informationen zum Thema Offshore-Segeln angeboten.
 
-<img title="Zu Gast auf der Bergisel-Schanze in Innsbruck" alt="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" src="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}{{ site.assets.images }}/GHK-Multivisionsfestival{{ site.version }}.jpg" class="pull-left">
+<img title="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" alt="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" src="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}{{ site.assets.images }}/GHK-Multivisionsfestival{{ site.version }}.jpg" class="pull-left">
 
 ## Eine Gernsheimer Yacht ##
 
