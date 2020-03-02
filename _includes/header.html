@@ -1,10 +1,10 @@
 <header style="background-image:url({% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}{{ site.assets.images }}{% if page.background-image %}{{ page.background-image }}{% else %}/header/fotos-aus-der-box{{ site.version }}.jpg{% endif %})"{% if page.section or page.background-image %}{% else %} id="intro-header"{% endif %}>
     <div class="header-content">
         <div class="header-content-inner">
-            <h1>{% if page.title %}{{ page.title }}{% else %}Ein Bild sagt mehr als 1000 Worte{% endif %}</h1>
+            <h1>{% if page.title %}{{ page.title }}{% else %}Ein FotoBox Bild sagt mehr als 1000 Worte{% endif %}</h1>
 {% if page.section or page.background-image %}
             <hr>
-            <p>{% if page.subtitle %}{{ page.subtitle }}{% else %}Mit Fotos aus der Box verleihen Sie Ihrem Event den letzten Schliff! Ideal für Geburtstag, <a href="{{ site.url | prepend: site.baseurl }}/fotobox/hochzeit.html" title="Hochzeit mit der FotoBox">Hochzeit</a>, Firmenfeier oder Messe.{% endif%}</p>
+            <p>{% if page.subtitle %}{{ page.subtitle }}{% else %}Mit einer FotoBox von Fotos aus der Box verleihen Sie Ihrem Event den letzten Schliff! Ideal für Geburtstag, <a href="{{ site.url | prepend: site.baseurl }}/fotobox/hochzeit.html" title="Hochzeit mit der FotoBox">Hochzeit</a>, Firmenfeier oder Messe.{% endif%}</p>
             {% if page.date %}{% include postedby.html %}
 			<a href="#start" class="btn btn-primary btn-xl page-scroll">Artikel lesen</a>
 			{% endif %}

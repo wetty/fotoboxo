@@ -5,9 +5,7 @@ subtitle: Was sein muß, muß sein
 
 ## Angaben gemäß § 5 TMG: ##
 
-Dipl.-Ing. Thomas Wetterer    
-IT-Support    
-Softwareentwicklung    
+Thomas Wetterer    
 Breslauer Strasse 44    
 64579 Gernsheim
 

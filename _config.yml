@@ -1,10 +1,10 @@
 # Site settings
-title: FotoBox für Gernsheim und Umgebung
+title: FotoBox für Darmstadt, Mannheim, Frankfurt und Umgebung
 locale: de_DE
 email: info@fotos-aus-der-box.de
 telefon: +49 6258 903570 oder +49 163 8493889
-description: "Mieten Sie die FotoBox für Gernsheim, Darmstadt und Umgebung mit unbegrenzter Bilderanzahl, online Galerie, Studiobeleuchtung und Betreuung vor Ort." # this means to ignore newlines until "baseurl:"
-keywords: "FotoBox, PhotoBooth, Fotoautomat, Geburtstag, Jubiläum, Hochzeit, Event, Messe, Gernsheim, Darmstadt, Groß-Umstadt, Biebesheim"
+description: "Mieten Sie die FotoBox für Darmstadt, Groß-Umstadt, Mannheim, Frankfurt, Gernsheim und Umgebung mit unbegrenzter Bilderanzahl, online Galerie, Studiobeleuchtung und Betreuung vor Ort." # this means to ignore newlines until "baseurl:"
+keywords: "FotoBox, PhotoBooth, Fotoautomat, FotoKiosk, Fotos drucken, Geburtstag, Jubiläum, Hochzeit, Event, Messe, Darmstadt, Gernsheim, Groß-Umstadt, Biebesheim, Mannheim, Frankfurt, Lorsch"
 # baseurl: "/fotoboxo" # the subpath of your site, e.g. /blog/
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.fotos-aus-der-box.de" # the base hostname & protocol for your site
