@@ -1,5 +1,7 @@
 ---
 title: Datenschutzerklärung
+subtitle: "Datenschutz auf einen Blick"
+permalink: /datenschutzerklaerung/
 ---
 
 ## 1. Datenschutz auf einen Blick ##

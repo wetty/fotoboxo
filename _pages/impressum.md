@@ -1,6 +1,7 @@
 ---
 title: Impressum
 subtitle: Was sein muß, muß sein
+permalink: /impressum/
 ---
 
 ## Angaben gemäß § 5 TMG: ##
