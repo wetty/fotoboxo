@@ -31,6 +31,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 assets:
   css: "/assets/css"

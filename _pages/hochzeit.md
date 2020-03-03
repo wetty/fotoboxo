@@ -1,6 +1,9 @@
 ---
 title: Hochzeit mit der FotoBox
 subtitle: Hochzeit mit der FotoBox
+permalink: /fotobox/hochzeit/
+redirect_from:
+  - /fotobox/hochzeit.html
 ---
 ## FotoBox für Ihre Hochzeit 
 

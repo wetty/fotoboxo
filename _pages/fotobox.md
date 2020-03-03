@@ -1,6 +1,7 @@
 ---
 title: Die FotoBox im Detail
 subtitle: Alles was die FotoBox leisten kann
+permalink: /fotobox/
 ---
 <img title="FotoBox mieten in Gernsheim" alt="FotoBox mieten" src="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}{{ site.assets.images }}/fotobox-gernsheim{{ site.version }}.jpg" class="pull-left">
 
@@ -41,6 +42,10 @@ Werden spezielle FotoBox Accesoires, wie Perücken, Brillen etc. etc. gewünscht
 Auf Wunsch sortieren wir alle Bilder grob vor und lassen von den besten Bilder Abzüge machen. Kosten hängen von der Anzahl der Bilder ab.
 
 Sind gedruckte Bilder direkt während der Veranstaltung gewünscht, so können wir nach Absprache auch direkt vor Ort Bilder für Ihre Gäste drucken. 
+
+## <i class="fa fa-1x fa-dropbox  wow bounceIn text-primary" data-wow-delay=".4s"></i> Online Galerie ##
+
+Alle Bilder werden/können auch sofort in einer per individuellem Zugangscode gesicherten [Online Galerie] zur Verfügung gestellt werden. Der Link hierfür läßt sich bequem über einen an der FotoBox angebrachten QR-Code per Smartphone mit entsprechender QR-Code Scanner App aufrufen.
 
 
 {% include _references.md %}

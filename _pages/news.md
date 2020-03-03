@@ -2,6 +2,7 @@
 layout: default
 title: FotoBox News
 subtitle: Die letzten Neuigkeiten
+permalink: /news/
 ---
 <section id="blogposts" class="bg-light">
     <!-- Main Content -->
