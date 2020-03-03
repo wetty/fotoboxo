@@ -1,3 +1,6 @@
+#### Hinweis externe Links <span style="color: red;">↗</span> ####
+
+Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei Cookies einsetzen, um die Herkunft des Aufrufs ausfindig machen zu können. Dies hat jedoch keine Auswirkungen auf die Nutzung meiner Website. Externen Links sind mit einem (<span style="color: red;">↗</span>) gekennzeichnet.
 
 [emaillink]: &#109;&#097;&#105;&#108;&#116;&#111;&#058;&#116;&#104;&#111;&#109;&#097;&#115;&#064;&#119;&#101;&#116;&#116;&#101;&#114;&#101;&#114;&#046;&#100;&#101; "Email an Thomas Wetterer"
 [Gernsheimer Schiff]: https://gernsheimer-schiff.de/ "...gut essen - gesellig feiern!"

@@ -1,0 +1,5 @@
+a[href*="//"]:not([href*="res.cloudinary.com"]):not([href*="fotos-aus-der-box.de"]):not([href*="localhost"]):after { content: "↗"; color: red; }
+
+h2, .h2, h3, .h3, h4, .h4 {
+  font-weight: bold;
+}
