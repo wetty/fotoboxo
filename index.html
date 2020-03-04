@@ -6,8 +6,28 @@ section_text: "Erfahren Sie mehr"
 title: "Ein FotoBox Bild sagt mehr als 1000 Worte"
 subtitle: "Mit einer FotoBox von Fotos aus der Box verleihen Sie Ihrem Event den letzten Schliff! Ideal für Geburtstag, [Hochzeit](/fotobox/hochzeit/), Firmenfeier oder Messe."
 ---
-{% for member in site.data.front_includes %}
-{% if member.file %}
-   {% include {{ member.file }} %}
+{% for frontitem in site.frontpage %}
+<section id="{{ frontitem.section-id }}" class="{{ frontitem.section-class }}">
+{% if frontitem.section-heading %}
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">{{ frontitem.section-heading }}</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
 {% endif %}
+    <div class="{{ frontitem.container-class | default: 'container' }}">
+          {{ frontitem.content | markdownify }}
+{% if frontitem.section-url %}
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <hr class="primary">
+                <a href="{{ site.url | prepend: site.baseurl }}{{ frontitem.section-url }}" class="btn btn-primary btn-xl page-scroll wow tada">{{ frontitem.section-url-title }}</a>
+            </div>
+        </div>
+{% endif %}
+    </div>
+</section>
 {% endfor %}

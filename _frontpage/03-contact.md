@@ -1,0 +1,22 @@
+---
+section-id: "contact"
+section-heading: "Lassen Sie uns Kontakt aufnehmen!"
+section-class: ""
+section-url: 
+section-url-title: 
+---
+<div class="row">
+   <div class="col-lg-8 col-lg-offset-2 text-center">
+            <p>Bereit das nächste Event mit Fotos-aus-der-Box zu bestreiten?</p><p><strong>Großartig!</strong></p><p>Rufen Sie uns an oder senden Sie uns eine email. Wir melden uns umgehend bei Ihnen!</p>
+        </div>
+    <div class="col-lg-2 col-lg-offset-4 text-center">
+        <a href="mailto:{{ site.email }}">
+        <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+            <p>{{ site.email }}</p>
+        </a>
+    </div>
+    <div class="col-lg-2 col-lg-offset-0 text-center">
+        <i class="fa fa-phone-square fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+            <p>{{ site.telefon }}</p>
+    </div>
+</div>

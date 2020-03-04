@@ -124,8 +124,6 @@ module.exports = function(grunt) {
     'clean',
     'uglify',
     'imagemin',
-    'uncss',
-	'cssmin'
   ]);
   grunt.registerTask('dev', [
     'watch'

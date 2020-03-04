@@ -1,0 +1,32 @@
+---
+section-id: "partner"
+section-heading: "Partner der Fotos aus der Box"
+section-class: "bg-white"
+section-url: 
+section-url-title: 
+---
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2 text-center">
+<p class="dark">Hier waren wir schon zu Gast bzw. sind herzlich willkommen.</p>
+<hr class="dark">
+<p class=""><a href="http://gernsemer-faehrhaus.de/" title="Hol über, komm Rüber!">Gernsheimer Fährhaus</a> - Gernsheim.<i class="fa fa-1x fa fa-wifi text-primary"></i></p>
+<hr class="dark">
+<p class=""><a href="http://bellini-trattobistro.de/" title="Bellini Trattobistro">Bellini Trattobistro</a> - Gernsheim.<i class="fa fa-1x fa fa-wifi text-primary"></i></p>
+<hr class="dark">
+<p class=""><a href="http://www.hotel-rheingold.de/" title="Vielfalt erleben seit 1909">Hotel Rheingold</a> - Gernsheim.
+<i class="fa fa-1x fa fa-wifi text-primary"></i></p>
+<p class="dark">"Danach hatte ich schon lange gesucht." - Hans Andres - Hotel Rheingold</p>
+<hr class="dark">
+<p class=""><a href="http://www.copsv.de/" title="Clube Operário Português de Groß-Umstadt - Portugiesischer Club">Portugiesischer Club</a> - Groß-Umstadt</p>
+<hr class="dark">
+<p class=""><a href="http://www.faselstall-biebesheim.de/" title="Das Kulturzentrum der besonderen ART">Faselstall Biebesheim</a> - Biebesheim</p>
+<hr class="dark">
+<p class=""><a href="https://gernsheimer-schiff.de/" title="...gut essen - gesellig feiern!">Gernsheimer Schiff</a> - Gernsheim.</p>
+<hr class="light">
+<h2 class="section-heading">FotoBox Empfehlungen</h2>
+<p class="dark">Alle die uns kennen und empfehlen.</p>
+<hr class="dark">
+<p class=""><a href="http://www.biebesheim-am-rheinkilometer464.de" title="Ein Weblog von Simone Frank">Biebesheim am Rheinkilometer 464</a></p>
+<hr class="dark">
+</div>
+</div>

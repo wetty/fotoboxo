@@ -53,6 +53,13 @@ defaults:
     values:
       layout: "page" # overrides previous default layout
  
+# Collections
+collections:
+  fotobox:
+    output: false
+  frontpage:
+    output: false
+
 # Site owner
 owner:
   name: Thomas Wetterer
