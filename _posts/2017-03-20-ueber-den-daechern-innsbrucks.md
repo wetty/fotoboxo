@@ -2,6 +2,9 @@
 title:  "Über den Dächern Innsbrucks"
 subtitle: "Zu Gast auf der Bergisel-Schanze in Innsbruck"
 date:   2017-03-20 14:33:13 +0100
+categories:
+- Event
+- Geburtstag
 ---
 Am Wochenende ging es wohl zu einer der außergewöhnlichsten Locations an denen wir bislang waren. Offiziell war ein Hotel in Innsbruck der Ort an dem die FotoBox aufgestellt wurde. Nach dem Essen und dem offiziellen Teil kam dann die Überraschung.
 
