@@ -2,6 +2,9 @@
 title:  "Halloween Party!"
 subtitle: "Eine wahrhaft perfekte Party für die FotoBox"
 date:   2015-11-01 16:09:42 +0100
+categories:
+- Event
+- Halloween
 ---
 Eine Halloween Party mit verkleideten Gästen bietet natürlich die Perfekte Kulisse für die FotoBox. 
 

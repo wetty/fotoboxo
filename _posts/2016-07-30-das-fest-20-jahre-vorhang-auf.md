@@ -3,6 +3,9 @@ title:  "Das Fest - 20 Jahre Vorhang Auf!"
 subtitle: "20 Jahre Vorhang Auf Fest im Foyer und auf der Terrasse des Staatstheaters Darmstadt"
 excerpt: "Am Freitag waren wir auf dem 20 Jahre Fest der [VORHANG AUF] Verlags GmbH zu Gast."
 date:   2016-07-30 17:12:43 +0100
+categories:
+- Event
+- Firmenjubiläum
 ---
 <img title="Aurora DeMeehl und die FotoBox" alt="Aurora DeMeehl" src="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}{{ site.assets.images }}/aurora-demeehl{{ site.version }}.jpg" class="pull-left">Am Freitag waren wir auf dem 20 Jahre Fest der [VORHANG AUF] Verlags GmbH zu Gast. Für viele die erste Begegnung mit einer FotoBox. Wie immer ein riesen Spass!
 
