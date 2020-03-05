@@ -2,6 +2,9 @@
 title:  "Blind Dinner"
 subtitle: "FotoBox beim ersten Blind Dinner"
 date:   2016-11-05 13:16:32 +0100
+categories:
+- Event
+- Blind-Dinner
 ---
 Ganz im geheimen und völlig im Dunkeln fand gestern eine Weihnachtsfeier im [Hotel Rheingold] unter dem Motto "Blind Dinner" statt.
 

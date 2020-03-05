@@ -3,6 +3,9 @@ title:  "Auch Outdoor ein Hit!"
 subtitle: "Die FotoBox, umwerfend gut!"
 background-image: /header/fotobox-gernsheim-in-action.jpg
 date:   2015-07-19 16:25:44 +0100
+categories:
+- Event
+- Hochzeit
 ---
 Die FotoBox war wieder gefragt. Dieses mal für eine kombinierte [Silberhochzeit] und Geburtstags Feier im Freien.
 

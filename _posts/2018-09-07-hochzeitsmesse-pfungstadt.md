@@ -2,6 +2,9 @@
 title:  "1. Hochzeitsmesse Pfungstadt"
 subtitle: "Fotos aus der Box sind am 29./30.09.2018 auf der Hochzeitsmesse in Pfungstadt"
 date:   2018-09-07 14:33:13
+categories:
+- Event
+- Hochzeit
 ---
 Wir sind als Aussteller zu Gast auf der 1. Hochzeitsmesse in Pfungstadt am 29./30. September 2018.
 

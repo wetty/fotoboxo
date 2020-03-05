@@ -2,6 +2,8 @@
 title: "1. GHK Multivisionsfestival"
 subtitle: "1. GHK Multivisionsfestival mit zwei sensationellen Beiträgen"
 date: 2020-02-12 08:36:33+0100
+categories:
+- Event
 ---
 Da wir an dem Festival aktiv beteiligt sind und auch beim ersten Vortrag auf der Bühne stehen hier etwas Werbung.
 

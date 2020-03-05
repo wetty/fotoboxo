@@ -2,6 +2,9 @@
 title:  "Rekord mit Fußauslöser"
 subtitle: "Neuer Bilderrekord mit 797 Bilder bei Weihnachtsfeier dank neuem Fußauslöser"
 date:   2018-12-09- 12:05:13
+categories:
+- Event
+- Weihnachtsfeier
 ---
 Bei einer Weihnachtsfeier am gestrigen Abend kam erstmalig unser neu entwickelter Fußauslöser zum Einsatz. 
 
