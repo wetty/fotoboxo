@@ -2,6 +2,9 @@
 title:  "Hochzeitssaison eröffnet"
 subtitle: "Die Hochzeitssaison 2019 wurde gestern eröffnet"
 date:   2019-03-31- 15:40:13
+categories:
+- Event
+- Hochzeit
 ---
 
 Gestern wurde mit der ersten Hochzeitsfeier diesen Jahres die Saison eröffnet.

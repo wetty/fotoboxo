@@ -2,6 +2,8 @@
 title: "Termine, Termine, Termine..."
 subtitle: "Wir raten rechtzeitig zu reservieren."
 date: 2020-03-02 08:17:33+0100
+categories:
+- Termine
 ---
 Oft ist die Entäuschung groß, wenn wir zum geplanten Event leider schon ausgebucht sind. Daher können wir nur raten rechtzeitig eine FotoBox zu reservieren.
 

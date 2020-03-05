@@ -14,6 +14,7 @@ url: "https://www.fotos-aus-der-box.de" # the base hostname & protocol for your 
 url_cdn: //d2pgtqatw1ohn4.cloudfront.net
 version: ".6"
 #permalink:    /:year/:month/:day/:title.html
+permalink: /:categories/:title/
 
 twitter_username:
 github_username:
@@ -46,6 +47,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      categories: [FotoBox]
   -
     scope:
       path: ""

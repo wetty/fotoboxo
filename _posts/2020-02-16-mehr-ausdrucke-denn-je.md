@@ -2,6 +2,8 @@
 title: "Mehr Ausdrucke denn je"
 subtitle: "Das gedruckte Bild ist beliebter denn je zuvor."
 date: 2020-02-16 18:04:33+0100
+categories:
+- FotoKiosk
 ---
 Bei einer unserer letzten Veranstaltungen wurden 459 Bilder an unserem FotoKiosk ausgedruckt. Ein neuer Rekord!
 
