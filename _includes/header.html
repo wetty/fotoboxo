@@ -11,6 +11,8 @@
             {% if page.section_text %}<hr>
 			<a href="#{{ page.section }}" class="btn btn-primary btn-xl page-scroll wow tada">{{ page.section_text }}</a>
 			{% endif %}
+{% else %}
+{% if page.subtitle %}{{ page.subtitle  | markdownify }}{% endif%}
 {% endif %}
         </div>
     </div>
