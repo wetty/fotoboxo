@@ -5,7 +5,7 @@ permalink: /fotobox/foto-box-classic/
 ---
 
 {% for fadb in site.fotobox %}
- <i class="fa fa-6x {{ fadb.icon }} wow bounceIn text-primary pull-left" data-wow-delay=".4s"></i>
+<p><i class="fa fa-4x {{ fadb.icon }} wow bounceIn text-primary pull-left" data-wow-delay=".4s"></i>
   <h3>{{ fadb.title }}</h3>
-  {{ fadb.content | markdownify | remove: "<p>" | remove: "</p>" }}
+  {{ fadb.content | markdownify | remove: "<p>" | remove: "</p>" }}</p>
 {% endfor %}
