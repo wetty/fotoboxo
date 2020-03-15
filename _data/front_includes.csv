@@ -1,7 +1,7 @@
 section,href,title,file,hreftitle
 #fotobox,/#fotobox,FotoBox,fotobox.html,Merkmale der FotoBox
-#kosten,/#kosten,Kosten,kosten.html,FotoBox zu mieten
-#news,/#news,News,news.html,Neuigkeiten rund um die FotoBox
+/kosten/,/kosten/,Kosten,kosten.html,FotoBox zu vermieten
+/news/,/news/,News,news.html,Neuigkeiten rund um die FotoBox
 #partner,/#partner,Partner,partner.html,Partner der FotoBox
 #portfolio,/#portfolio,Portfolio,portfolio.html,Fotos aus der Box
 ,https://galerie.fotos-aus-der-box.de,Galerie,,Online Galerie

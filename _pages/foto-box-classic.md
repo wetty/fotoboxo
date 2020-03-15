@@ -1,8 +1,10 @@
 ---
 title: "FotoBox Classic im Detail"
-subtitle: "Alles was die FotoBox leistet"
+subtitle: "Alle Details die unsere FotoBox mitbringt"
 permalink: /fotobox/foto-box-classic/
 ---
-{% for fadb in site.fotobox %}
-  * **{{ fadb.title }}:** {{ fadb.intro }}{% endfor %}
 
+{% for fadb in site.fotobox %}
+  <h3><i class="fa fa-1x {{ fadb.icon }} wow bounceIn text-primary" data-wow-delay=".4s"></i>&nbsp;{{ fadb.title }}</h3>
+  {{ fadb.content | markdownify | remove: "<p>" | remove: "</p>" }}
+{% endfor %}
