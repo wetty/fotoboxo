@@ -1,6 +1,6 @@
 ---
 title: "Corona streicht die Segel"
-subtitle: "Aufgrund der Coronapandemie ist das 1. GHK Multivisionsfestival auf den 13. Märzs 2021 verschoben"
+subtitle: "Aufgrund der Coronapandemie ist das 1. GHK Multivisionsfestival auf den 13. März 2021 verschoben"
 date: 2020-03-15 16:33:33+0100
 categories:
 - Event
