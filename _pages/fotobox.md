@@ -3,6 +3,14 @@ title: Die FotoBox im Detail
 subtitle: Alles was die FotoBox leisten kann
 permalink: /fotobox/
 ---
+
+{% for fadb in site.fotobox %}
+<h3>{{ fadb.title }}</h3>
+<i class="fa fa-4x {{ fadb.icon }} wow bounceIn text-primary pull-left" data-wow-delay=".4s"></i>
+{{ fadb.content | markdownify }}
+<hr>
+{% endfor %}
+
 <img title="FotoBox mieten in Gernsheim" alt="FotoBox mieten" src="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}{{ site.assets.images }}/fotobox-gernsheim{{ site.version }}.jpg" class="pull-left">
 
 ## Was ist eigentlich eine FotoBox?
