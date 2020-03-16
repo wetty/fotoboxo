@@ -51,10 +51,6 @@ Auf Wunsch sortieren wir alle Bilder grob vor und lassen von den besten Bilder A
 
 Sind gedruckte Bilder direkt während der Veranstaltung gewünscht, so können wir nach Absprache auch direkt vor Ort Bilder für Ihre Gäste drucken. 
 
-## <i class="fa fa-1x fa-dropbox  wow bounceIn text-primary" data-wow-delay=".4s"></i> Online Galerie ##
-
-Alle Bilder werden/können auch sofort in einer per individuellem Zugangscode gesicherten [Online Galerie] zur Verfügung gestellt werden. Der Link hierfür läßt sich bequem über einen an der FotoBox angebrachten QR-Code per Smartphone mit entsprechender QR-Code Scanner App aufrufen.
-
 
 {% include _references.md %}
 
