@@ -24,3 +24,4 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Online Galerie]: https://galerie.fotos-aus-der-box.de/ "Fotos aus der Box Online Galerie"
 [Gernsheimer Hochseekameradschaft e.V.]: http://www.gernsheimer-hochseekameradschaft.de/ "Gernsheimer Hochseekameradschaft e.V. - Rund um die Segelyacht Moby Dick III."
 [DNP DS-RX1 HS]: https://amzn.to/2TUzNpN "Thermosublimationsdrucker in Fotoqualität für Kopien von 10 x 15 cm"
+[Canon Selphy]: https://amzn.to/3d74ekk "Mobiler Fotosdrucker"
