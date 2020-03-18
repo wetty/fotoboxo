@@ -5,7 +5,7 @@ intro: "Wir bauen alles auf und ab und kontrollieren das alles funktioniert. Vö
 ---
 Wir bauen die FotoBox komplett auf und holen alles nach der Veranstaltung wieder ab. Damit haben Sie an Ihrer Veranstaltung keinen weiteren zusätzliche "Stress" mit unserer FotoBox.
 
-> **Vorteil gegenüber einer FotoBox aus dem Versand**
+> **Vorteile gegenüber einer FotoBox aus dem Versand**
 >
 > Alle FotoBoxen, die Sie sich zuschicken lassen können, müßen Sie selbst aufbauen und nach der Veranstaltung wieder abbauen und zurück schicken.
 > 
