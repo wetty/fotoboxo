@@ -1,7 +1,7 @@
 ---
 icon: "fa-user-secret"
 title: "Auf- und Abbau"
-intro: "Wir bauen alles auf und ab. Völlig Streßfrei für Sie"
+intro: "Wir bauen alles auf und ab und kontrollieren das alles funktioniert. Völlig Streßfrei für Sie."
 ---
 Wir bauen die FotoBox komplett auf und holen alles nach der Veranstaltung wieder ab. Damit haben Sie an Ihrer Veranstaltung keinen weiteren zusätzliche "Stress" mit unserer FotoBox.
 
