@@ -5,7 +5,7 @@ date: 2020-03-15 16:33:33+0100
 categories:
 - Event
 ---
-Das Festival wurde auf den 13.03.2021 verschoben. Alle Karten behalten Ihre Gültigkeit.
+> Das Festival wurde auf den 13.03.2021 verschoben. Alle Karten behalten Ihre Gültigkeit.
 
 **Am Samstag 13.3.2021. Einlass ab 17:00 Uhr.**
 
