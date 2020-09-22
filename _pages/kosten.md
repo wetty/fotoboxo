@@ -5,7 +5,7 @@ permalink: /kosten/
 ---
 ## FotoBox Classic Paket ##
 
-Sie müßen sich um nichts kümmern. Wir kommen und bauen alles rechtzeitig auf. Ebenso bauen wir nach der Veranstaltung alles wieder ab. 
+Sie müßen sich um nichts kümmern. Wir kommen und bauen alles rechtzeitig auf. Ebenso bauen wir nach Ihrer Veranstaltung alles wieder ab. 
 
   * Anlieferung und Abholung (bevorzugt am nächsten Tag) 50km rund um Darmstadt
   * Auf- und Abbau der FotoBox inklusive der notwendigen Beleuchtung und Hintergrund
