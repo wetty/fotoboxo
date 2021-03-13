@@ -12,7 +12,7 @@ url: "https://www.fotos-aus-der-box.de" # the base hostname & protocol for your 
 #url: "" # the base hostname & protocol for your site
 #url_cdn: https://cloudfront.fotos-aus-der-box.de
 url_cdn: //d2pgtqatw1ohn4.cloudfront.net
-url_cloudinary: //res.cloudinary.com/dsuwkv08y/image/upload/fadb/q_auto,f_auto,c_scale,fl_progressive
+url_cloudinary: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive/fadb
 version: ".11"
 #permalink:    /:year/:month/:day/:title.html
 permalink: /:categories/:title/
