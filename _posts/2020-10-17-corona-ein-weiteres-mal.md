@@ -13,7 +13,7 @@ Maritime Kurzweil wird Ihnen in dieser Premierenveranstaltung der Gernsheimer Ho
 
 <img title="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" alt="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" src="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}{{ site.assets.images }}/2021-10-02-GHK-Multivisionsfestival{{ site.version }}.jpg" class="pull-left">
 
-<img title="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" alt="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" src="{{ site.url_cloudinary }}/2021-10-02-GHK-Multivisionsfestival.jpg" class="pull-left">
+<img title="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" alt="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" src="{{ site.url_cloudinary }}/07-Fomapan_200_6x6-D75_8958-Pano.jpg" class="pull-left">
 
 
 Aktuelle Updates zur Veranstaltung werden unter [Gernsheimer Hochseekameradschaft e.V.]{: target="_blank" rel="noopener noreferrer nofollow"} publiziert.
