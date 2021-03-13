@@ -1,0 +1,49 @@
+{% capture popup %}{{ include.popup | default: "false" }}{% endcapture %}
+{% if include.path contains "/fadb/" %}
+  {% capture img_path %}{{ include.path }}{% endcapture %}
+{% else %}
+  {% capture img_path %}/fadb/{{ include.path }}{% endcapture %}
+{% endif %}
+{% capture url_responsible %}{{ site.url_cloudinary_w }}{% endcapture %}
+{% capture popup_class %}{{ site.image_popup_class }}{% endcapture %}
+{% assign popup_href = img_path %}
+{% capture incl_href %}{{ include.href | default: "" }}{% endcapture %}
+
+{% if incl_href contains "//" %}
+  {% assign popup = "true" %}
+  {% assign popup_href = incl_href %}
+  {% assign popup_class = "" %}
+{% else %}
+{% capture popup_href %}{{ site.url_cloudinary }}{{ img_path }}{% endcapture %}
+{% endif %}
+
+{% if popup == "true" %}<a href="{{ popup_href }}" class="{{ popup_class }}" title="{{ include.alt }}">{% endif %}
+{% if include.width %}
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ img_path }}" class="{{ include.class }} lazyload" width="{{ include.width }}" height="{{ include.height }}" alt="{{ include.alt }}" />
+{% else %}
+{% if site.responsible_images %}
+<img data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="{{ include.class }} lazyload" alt="{{ include.alt }}"
+ data-src="{{ url_responsible }}288{{ img_path }} 288w"
+ data-srcset="{{ url_responsible }}1920{{ img_path }} 1920w,
+{{ url_responsible }}1600{{ img_path }} 1600w,
+{{ url_responsible }}1280{{ img_path }} 1280w,
+{{ url_responsible }}1024{{ img_path }} 1024w,
+{{ url_responsible }}972{{ img_path }} 972w,
+{{ url_responsible }}936{{ img_path }} 936w,
+{{ url_responsible }}848{{ img_path }} 848w,
+{{ url_responsible }}732{{ img_path }} 732w,
+{{ url_responsible }}553{{ img_path }} 553w,
+{{ url_responsible }}379{{ img_path }} 379w,
+{{ url_responsible }}343{{ img_path }} 343w,
+{{ url_responsible }}328{{ img_path }} 328w,
+{{ url_responsible }}274{{ img_path }} 278w,
+{{ url_responsible }}274{{ img_path }} 274w,
+{{ url_responsible }}274{{ img_path }} 200w,
+{{ url_responsible }}274{{ img_path }} 180w,
+{{ url_responsible }}274{{ img_path }} 150w" />
+{% else %}
+<img data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ img_path }}" class="{{ include.class }} lazyload" alt="{{ include.alt }}" />
+{% endif %}
+{% endif %}
+{% if popup == "true"  %}</a>{% endif %}
+

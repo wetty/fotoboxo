@@ -1,0 +1,12 @@
+{% capture figure_class %}{{ include.class }}{% endcapture %}
+{% capture img_path %}{{ include.img | default: "empty" }}{% endcapture %}
+{% capture alt_txt %}{{ include.alt | default: "empty" }}{% endcapture %}
+{% capture padding-bottom %}{{ include.padding-bottom }}{% endcapture %}
+{% capture href_link %}{{ include.href | default "" }}{% endcapture %}
+
+{% if figure_class == "" and include.padding-bottom %}<div class="ratio-box" style="padding-bottom: {{ include.padding-bottom }}">{% endif %}
+<figure class="{{ figure_class }}">
+{% include wetty/image.html path=img_path alt=alt_txt popup="true" href=href_link %}
+{% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
+</figure>
+{% if figure_class == "" and include.padding-bottom %}</div>{% endif %}
