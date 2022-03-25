@@ -12,3 +12,4 @@ Ab sofort ist es bei jedem FotoBox Event möglich eigene Bilder während der Ver
 
 Das bedeutet alle Gäste können mit Ihren Schnappschüßen zur Bildergalerie beitragen. Und alle können sich die Bilder direkt online anschauen.
 
+{% include _references.md %}
