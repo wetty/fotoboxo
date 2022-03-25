@@ -52,10 +52,12 @@
 	<link rel="stylesheet" href="{{ site.url | prepend: site.baseurl }}{{ site.assets.css }}/fotobox.css" type="text/css">
 -->
 	<link rel="stylesheet" href="{% if site.url_cdn %}{{ site.url_cdn | prepend: site.baseurl }}{% else %}{{ site.url | prepend: site.baseurl }}{% endif %}{{ site.assets.css }}/main{{ site.version }}.css" type="text/css">
+	<link rel="stylesheet" href="{{ site.url | prepend: site.baseurl }}{{ site.assets.css }}/main{{ site.version }}.css" type="text/css">
 
 {% endif %}
 
-	<link rel="stylesheet" href="{{ site.url | prepend: site.baseurl }}{{ site.assets.css }}/main{{ site.version }}.css" type="text/css">
+    <!-- 2022-03-25 auf relativ geändert -->
+	<link rel="stylesheet" href="{{ site.assets.css }}/main{{ site.version }}.css" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
