@@ -1,0 +1,9 @@
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: http://www.wetterer.de
+#url: /new2015 
+url: "https://fotos-aus-der-box.wenja.wetty.de"
+#url: http://wetty.github.io
+#url_cdn: http://cloudfront.wetterer.de
+#url_cdn: ""
+#version: ".10"
+#version: ""
