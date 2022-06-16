@@ -1,4 +1,4 @@
-a[href*="//"]:not([href*="amzn.to"]):not([href*="res.cloudinary.com"]):not([href*="fotos-aus-der-box.de"]):not([href*="localhost"]):after { content: "\f08e"; font-family: "FontAwesome"; padding-left: 5px; }
+a[href*="//"]:not([href*="amzn.to"]):not([href*="res.cloudinary.com"]):not([href*="fotos-aus-der-box.de"]):not([href*="wenja.wetty.de"]):not([href*="localhost"]):after { content: "\f08e"; font-family: "FontAwesome"; padding-left: 5px; }
 
 a[href*="//amzn.to"]:not([href*="localhost"]):after { content: "\f270"; font-family: "FontAwesome"; padding-left: 5px; }
 
