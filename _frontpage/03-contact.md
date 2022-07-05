@@ -19,4 +19,6 @@ section-url-title:
         <i class="fa fa-phone-square fa-3x wow bounceIn" data-wow-delay=".1s"></i>
             <p>{{ site.telefon }}</p>
     </div>
+   <div class="col-lg-8 col-lg-offset-2 text-center" id="allefotografen-seal-verified-light">
+   </div>
 </div>
