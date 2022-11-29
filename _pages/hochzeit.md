@@ -5,7 +5,7 @@ permalink: /fotobox/hochzeit/
 redirect_from:
   - /fotobox/hochzeit.html
 ---
-## FotoBox für Ihre Hochzeit 
+## FotoBox für Ihre Hochzeit ##
 
 Die FotoBox ist nahezu nicht mehr bei einer Hochzeit weg zu denken. Sie bietet die einmalige Möglichkeit von allen Gästen ein individuelles Foto zu bekommen. Erinnerungen an einen der schönsten Tage im Leben, die bleiben.
 
