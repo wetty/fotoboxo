@@ -1,7 +1,7 @@
 ---
 title: "Abibälle und Sommerpause"
 subtitle: "Abibälle und Sommerpause 14. Juli 2024 - 11. August 2024"
-date: 2024-06-10 13:13:35+0100
+date: 2024-06-10 13:13:35+0200
 ---
 
 Auch im zehnten Jahr von Fotos-aus-der-Box ist die Nachfrage nach der/den Fotobox/en noch ungebrochen. Auch erreichen uns immer mehr Nachfragen nach Event Shootings wie z.B. Jungesellen/innen Abschiede, Konfirmationen, Festumzügen, Abibällen etc. etc. etc. und füllen den Terminkalender.
