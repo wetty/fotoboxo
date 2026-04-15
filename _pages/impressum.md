@@ -7,8 +7,8 @@ permalink: /impressum/
 ## Angaben gemäß § 5 TMG: ##
 
 Thomas Wetterer    
-Breslauer Strasse 44    
-64579 Gernsheim
+Fasanenring 21    
+64823 Groß-Umstadt    
 
 ## Kontakt: ##
 
