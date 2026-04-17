@@ -7,5 +7,8 @@
       {{ post.subtitle }}
     </h3>
   </a>
+  <article class="post-content">
+    {{ post.excerpt }}
+  </article>
   <p class="post-meta">Geschrieben von <a href="{{ site.url | prepend: site.baseurl }}/impressum/" rel="author">{{ site.owner.name }}</a> am <time datetime="{{ post.date | date_to_xmlschema }}">{% include mydate.html %}</time></p>
 </div>
