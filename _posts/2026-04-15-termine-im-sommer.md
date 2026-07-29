@@ -6,7 +6,7 @@ categories:
 - Termine
 ---
 
-Es ist nahzu wie jedes Jahr, die Termine im Sommer werden knapper. Daher frühzeitig reservieren und zur Not dann lieber kostenfrei absagen, als ohne FotoBox da zu stehen.
+Es ist nahezu wie jedes Jahr, die Termine im Sommer werden knapper. Daher frühzeitig reservieren und zur Not dann lieber kostenfrei absagen, als ohne FotoBox da zu stehen.
 
 Wir sind drei Wochen mitten im Juli 2026 in Urlaub. Während dieser Zeit gibt es offiziell keine Vermietung. Inoffiziell nur unter besonderen Bedingungen, was entweder bedingt die FotoBox bereits vor unserem Urlaub aufzubauen und dann bis nach unserer Rückkehr stehen zu lassen. Oder eine Schulung was Auf- und Abbau angeht. 
 
