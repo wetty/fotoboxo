@@ -13,7 +13,3 @@ Wir sind drei Wochen mitten im Juli 2026 in Urlaub. Während dieser Zeit gibt es
 Die inoffizielle Variante ist allerdings auch schon so gut wie ausgebucht. D.h. hier steht nur noch eine Ersatzbox zur Verfügung, die nur für die absoluten "Notfälle" zum Einsatz kommt.
 
 Von daher am besten die Events versuchen noch im Mai und Juni unter zu bringen, und ansonsten dann wieder ab August.
-
-
-
-

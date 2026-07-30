@@ -8,7 +8,7 @@ permalink: /impressum/
 
 Thomas Wetterer    
 Fasanenring 21    
-64823 Groß-Umstadt    
+64823 Groß-Umstadt - Semd    
 
 ## Kontakt: ##
 
